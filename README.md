@@ -2,6 +2,7 @@
 <h1> Hey there! This is example cpp checker file.</h1>
 
 -  &nbsp; This one is designed for codeforces problem # 1765N
+-  &nbsp; Add testcasegenerator1 for problem # 1771B
 -  &nbsp; In brute_force solution file put the code which is completely but may have higher complexity.
 -  &nbsp; Now, in my_solution put the code which is not giving desired result somewhere, but you are unable to figure out that failed testcase.
 -  &nbsp; Modify the testcase generator file according to your input need.
